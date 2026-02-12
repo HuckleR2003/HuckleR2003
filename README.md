@@ -3,6 +3,7 @@
 **94°C laptop. 680 hours. 4 rebuilds. Still shipping.**
 
 ---
+
 ## Currently Working On
 
 **[PC_Workman](https://github.com/HuckleR2003/PC_Workman_HCK)**, System monitor that explains *why* your PC is slow, not just *that* it's slow.  
@@ -10,7 +11,9 @@ Built on dying hardware. Optimized for real-world constraints.
 
 **[GuideAI](https://github.com/HuckleR2003/guide-ai)**, Turn 100-page manuals into QR-code AI assistants.  
 Because paper manuals suck.
+
 ---
+
 ## My Story
 
 Nine months in Netherlands warehouse.  
@@ -22,10 +25,13 @@ Started rebuild #4 that night.
 Shipped first .exe three weeks later.
 
 Not talent. Stubbornness.
+
 ---
+
 ## Stack
 **PC_Workman:** Python, PyQt5, WMI, AI integration  
-**GuideAI:** React, Supabase, OpenAI, Vercel
+**GuideAI:** React, Supabase, OpenAI, Vercel, HTML5
+
 ---
 ## Find Me
 [X/Twitter](https://x.com/hck_lab) — Daily building updates  
