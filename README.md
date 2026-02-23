@@ -35,9 +35,9 @@ Not talent. Stubbornness.
 ---
 ## Find Me
 [X/Twitter](https://x.com/hck_lab) — Daily building updates  
-📝 [Medium](https://medium.com/@MarcinFirmuga) — 300+ reads per article  
-💼 [LinkedIn](https://linkedin.com/in/marcinfirmuga) — Professional updates  
-🔗 [Everything](https://linktr.ee/marcin_firmuga)
+[Medium](https://medium.com/@MarcinFirmuga) — 300+ reads per article  
+[LinkedIn](https://linkedin.com/in/marcinfirmuga) — Professional updates  
+[Everything](https://linktr.ee/marcin_firmuga)
 ---
 ## Stats
 - **700+ hours** on PC_Workman  
