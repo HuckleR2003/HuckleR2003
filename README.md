@@ -9,6 +9,8 @@
 **[PC_Workman](https://github.com/HuckleR2003/PC_Workman_HCK)**, System monitor that explains *why* your PC is slow, not just *that* it's slow.  
 Built on dying hardware. Optimized for real-world constraints.
 
+![Image](https://github.com/user-attachments/assets/fd2e9ed3-7b61-4c21-91df-7b41d66495fb)
+<- Quick tour .gif /\
 **[GuideAI](https://github.com/HuckleR2003/guide-ai)**, Turn 100-page manuals into QR-code AI assistants.  
 Because paper manuals suck.
 
