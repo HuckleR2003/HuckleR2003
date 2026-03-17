@@ -1,4 +1,4 @@
-# Marcin Firmuga (IT Specialist edu.) | Warehouse to Developer
+# Marcin Firmuga (IT Specialist edu.) | Developer
 **Building PC_Workman after 10-hour warehouse shifts.**  
 **94°C laptop. 680 hours. 4 rebuilds. Still shipping.**
 
