@@ -1,6 +1,6 @@
 # Marcin Firmuga (IT Specialist edu.) | Developer
 **Building PC_Workman after 10-hour warehouse shifts.**  
-**94°C laptop. 680 hours. 4 rebuilds. Still shipping.**
+**94°C laptop. >800 hours. 4 rebuilds. Still shipping.**
 
 ---
 
@@ -8,9 +8,8 @@
 
 **[PC_Workman](https://github.com/HuckleR2003/PC_Workman_HCK)**, System monitor that explains *why* your PC is slow, not just *that* it's slow.  
 Built on dying hardware. Optimized for real-world constraints.
+![PC_Workman Demo](https://github.com/user-attachments/assets/fd2e9ed3-7b61-4c21-91df-7b41d66495fb)
 
-![Image](https://github.com/user-attachments/assets/fd2e9ed3-7b61-4c21-91df-7b41d66495fb)
-<- Quick tour .gif /\
 **[GuideAI](https://github.com/HuckleR2003/guide-ai)**, Turn 100-page manuals into QR-code AI assistants.  
 Because paper manuals suck.
 
@@ -42,7 +41,7 @@ Not talent. Stubbornness.
 [Everything](https://linktr.ee/marcin_firmuga)
 ---
 ## Stats
-- **700+ hours** on PC_Workman  
+- **800+ hours** on PC_Workman  
 - **10 Medium articles** (58 followers, 300+ reads each)  
 - **2 dogs** (Kacia 11yr, Lusia 2yr — best teammates)  
 - **94°C** — laptop temperature during development
