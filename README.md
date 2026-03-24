@@ -1,7 +1,99 @@
 # Marcin Firmuga (IT Specialist edu.) | Developer
 **Building PC_Workman after 10-hour warehouse shifts.**  
 **94°C laptop. >800 hours. 4 rebuilds. Still shipping.**
+<!-- Social Links with Modern Badge Design -->
+<div style="margin-top: 40px; text-align: center;">
+  <h3 style="margin-bottom: 20px; color: #fff;">Connect with Me</h3>
+  <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
+    <!-- LinkedIn Badge -->
+    <a href="https://linkedin.com/in/marcinfirmuga" style="text-decoration: none;">
+      <div style="
+        background: linear-gradient(135deg, #0a192f 0%, #1a1d24 100%);
+        border-radius: 8px;
+        padding: 12px 24px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        border-bottom: 3px solid #fff;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+      " onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 16px rgba(0, 0, 0, 0.4)'" 
+         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0, 0, 0, 0.3)'">
+        <span style="font-size: 18px;"></span>
+        <span style="color: #fff;">LinkedIn</span>
+      </div>
+    </a>
 
+    <!-- X (Twitter) Badge -->
+    <a href="https://x.com/hck_lab" style="text-decoration: none;">
+      <div style="
+        background: linear-gradient(135deg, #0a192f 0%, #1a1d24 100%);
+        border-radius: 8px;
+        padding: 12px 24px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        border-bottom: 3px solid #fff;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+      " onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 16px rgba(0, 0, 0, 0.4)'" 
+         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0, 0, 0, 0.3)'">
+        <span style="font-size: 18px;">𝕏</span>
+        <span style="color: #fff;">Twitter/X</span>
+      </div>
+    </a>
+
+    <!-- Medium Badge -->
+    <a href="https://medium.com/@MarcinFirmuga" style="text-decoration: none;">
+      <div style="
+        background: linear-gradient(135deg, #0a192f 0%, #1a1d24 100%);
+        border-radius: 8px;
+        padding: 12px 24px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        border-bottom: 3px solid #fff;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+      " onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 16px rgba(0, 0, 0, 0.4)'" 
+         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0, 0, 0, 0.3)'">
+        <span style="font-size: 18px;"></span>
+        <span style="color: #fff;">Medium</span>
+      </div>
+    </a>
+
+    <!-- HackerNoon Badge -->
+    <a href="https://hackernoon.com/u/huckler" style="text-decoration: none;">
+      <div style="
+        background: linear-gradient(135deg, #0a192f 0%, #1a1d24 100%);
+        border-radius: 8px;
+        padding: 12px 24px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        border-bottom: 3px solid #fff;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+      " onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 16px rgba(0, 0, 0, 0.4)'" 
+         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0, 0, 0, 0.3)'">
+        <span style="font-size: 18px;"></span>
+        <span style="color: #fff;">HackerNoon</span>
+      </div>
+    </a>
+  </div>
+</div>
 ---
 
 ## Currently Working On
