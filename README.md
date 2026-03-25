@@ -27,6 +27,10 @@ Built on dying hardware. Optimized for real-world constraints.
 **[GuideAI](https://github.com/HuckleR2003/guide-ai)**, Turn 100-page manuals into QR-code AI assistants.  
 Because paper manuals suck.
 
+<img width="228" height="188" alt="GUIDE AI - Landing page options" src="https://github.com/user-attachments/assets/09438b2c-8c9d-41c9-a67d-9951e6be703f" /> <img width="308" height="301" alt="GUIDE AI - Chatbot with any Device" src="https://github.com/user-attachments/assets/5cdfa260-acff-4e73-a0de-197463597b61" />
+
+
+
 ---
 
 ## My Story
@@ -56,8 +60,8 @@ Not talent. Stubbornness.
 ---
 ## Stats
 - **800+ hours** on PC_Workman  
-- **10 Medium articles** (58 followers, 300+ reads each)  
-- **2 dogs** (Kacia 11yr, Lusia 2yr — best teammates)  
+- **10 Medium articles** (>100 followers, 300+ reads each)  
+- **2 dogs** (Kacia 11yr, Lusia 2yr - best teammates *for breaks*)  
 - **94°C** — laptop temperature during development
 ---
 
