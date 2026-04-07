@@ -40,10 +40,13 @@ Nine months in Netherlands warehouse.
 Coding every night on laptop hitting 94°C.
 
 Lost job December 22, three days before Christmas.  
-Started rebuild #4 that night.  
+Started full time and rebuild #4 that night.  
 Shipped first .exe three weeks later.
 
-Not talent. Stubbornness.
+<img width="736" height="286" alt="image" src="https://github.com/user-attachments/assets/db613452-3476-4ec1-9492-3d4b7d47962d" />
+
+
+Check [ROADMAP to 1.7.8](https://github.com/users/HuckleR2003/projects/3/views/2) of PC Workman!
 
 ---
 
