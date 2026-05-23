@@ -20,7 +20,7 @@ Building software between retail shifts. 10 months of unstoppable build. 4 rebui
 ## Currently Working On
 
 **[PC_Workman](https://github.com/HuckleR2003/PC_Workman_HCK)**, System monitor that explains why your PC is slow, not just that it's slow.
-220+ commits. 27 GitHub stars. ~130 downloads. second .exe available.
+270+ commits. 55 GitHub stars. ~260 downloads. second .exe available.
 
 <img width="612" height="307" alt="quick intro" src="https://github.com/user-attachments/assets/2c67253d-b3ae-44ff-b217-a89c68657966" />
 
@@ -66,9 +66,9 @@ Check [ROADMAP to 1.7.8](https://github.com/users/HuckleR2003/projects/3/views/2
 
 ---
 ## Find Me
-[LinkedIn](https://linkedin.com/in/marcinfirmuga) - 2,200+ followers, weekly series
-[Medium](https://medium.com/@MarcinFirmuga) - 156 followers, tutorials & build logs
-[X/Twitter](https://x.com/hck_lab) - 100+ followers, daily updates
+[LinkedIn](https://linkedin.com/in/marcinfirmuga) - 2,500 followers, weekly series
+[Medium](https://medium.com/@MarcinFirmuga) - 210+ followers, tutorials & build logs
+[X/Twitter](https://x.com/hck_lab) - 140+ followers, daily updates
 [Dev.to](https://dev.to/huckler) - technical articles
 [Everything](https://linktr.ee/marcin_firmuga) COFFEE :)
 
@@ -81,10 +81,10 @@ Best post: 30,000 views on LinkedIn (May 2026).
 ---
 ## Numbers
 - **10 months of work** on PC_Workman
-- **230+ commits** on main branch
-- **27 GitHub stars**, ~130 downloads
-- **2,200 LinkedIn** / 156 Medium / 100+ X followers
-- **10+ articles** across Medium, Dev.to, HackerNoon
+- **260+ commits** on main branch
+- **55 GitHub stars**, ~130 downloads
+- **2,500 LinkedIn** / 210+ Medium / 140+ X followers
+- **20+ articles** across Medium, Dev.to, HackerNoon
 - **Security:** Sigstore signed, VirusTotal 0/70, CodeQL on every commit
 - **2 dogs** - Kacia 11yr, Lusia 2yr (best teammates for breaks)
 ---
