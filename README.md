@@ -48,8 +48,10 @@ Coding every night on a laptop hitting 94°C.
  
 Lost job December 22, three days before Christmas.
 Started rebuild #4 that night. Shipped first .exe three weeks later.
- 
-Now working at Żabka (Polish convenience store) to pay bills while building.
+
+/\ - Thats how my First PC Workman Project started - /\
+
+**Now** working at Żabka (Polish convenience store) to pay bills while building.
 4:30 AM bike commute. Code before and after shifts. Weekends and days off = dev days.
  
 Currently starting Umiejętności Jutra 3.0 — Google's AI certification through SGH.
