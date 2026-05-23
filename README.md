@@ -51,10 +51,7 @@ Started rebuild #4 that night. Shipped first .exe three weeks later.
 
 /\ - Thats how my First PC Workman Project started - /\
 
-**Now** working at Żabka (Polish convenience store) to pay bills while building.
-4:30 AM bike commute. Code before and after shifts. Weekends and days off = dev days.
- 
-Currently starting Umiejętności Jutra 3.0 — Google's AI certification through SGH.
+Currently building full-time. Google AI certification in progress.
 Check [ROADMAP to 1.7.8](https://github.com/users/HuckleR2003/projects/3/views/2) of PC Workman!
 <img width="736" height="286" alt="image" src="https://github.com/user-attachments/assets/db613452-3476-4ec1-9492-3d4b7d47962d" />
 
