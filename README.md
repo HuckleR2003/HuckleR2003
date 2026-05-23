@@ -52,9 +52,8 @@ Started rebuild #4 that night. Shipped first .exe three weeks later.
 /\ - Thats how my First PC Workman Project started - /\
 
 Currently building full-time. Google AI certification in progress.
-Check [ROADMAP to 1.7.8](https://github.com/users/HuckleR2003/projects/3/views/2) of PC Workman!
-<img width="736" height="286" alt="image" src="https://github.com/user-attachments/assets/db613452-3476-4ec1-9492-3d4b7d47962d" />
 
+<img width="736" height="286" alt="image" src="https://github.com/user-attachments/assets/db613452-3476-4ec1-9492-3d4b7d47962d" />
 
 Check [ROADMAP to 1.7.8](https://github.com/users/HuckleR2003/projects/3/views/2) of PC Workman!
 
@@ -82,7 +81,7 @@ Best post: 30,000 views on LinkedIn (May 2026).
 ## Numbers
 - **10 months of work** on PC_Workman
 - **260+ commits** on main branch
-- **55 GitHub stars**, ~130 downloads
+- **55 GitHub stars**, ~260 downloads
 - **2,500 LinkedIn** / 210+ Medium / 140+ X followers
 - **20+ articles** across Medium, Dev.to, HackerNoon
 - **Security:** Sigstore signed, VirusTotal 0/70, CodeQL on every commit
