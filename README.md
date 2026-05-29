@@ -17,6 +17,10 @@
 Hey! :) - 
 Building software between retail shifts. 10 months of unstoppable build. 4 rebuilds. Still shipping.
 
+<img width="372" height="87" alt="image" src="https://github.com/user-attachments/assets/450a9ca0-9474-4b02-97f0-4d11e7a13e7c" />
+
+169 place in [Top GitHub Commiters](https://committers.top/poland.html) in Poland
+
 ## Currently Working On
 
 **[PC_Workman](https://github.com/HuckleR2003/PC_Workman_HCK)**, System monitor that explains why your PC is slow, not just that it's slow.
