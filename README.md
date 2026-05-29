@@ -19,7 +19,7 @@ Building software between retail shifts. 10 months of unstoppable build. 4 rebui
 
 <img width="470" height="111" alt="image" src="https://github.com/user-attachments/assets/0c28acb0-882f-4f65-a014-d64654a409c3" />
 
-169 place in [Top GitHub Commiters](https://committers.top/poland.html) in Poland
+151 place in [Top GitHub Commiters](https://committers.top/poland.html) in Poland
 
 ## Currently Working On
 
