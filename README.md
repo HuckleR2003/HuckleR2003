@@ -17,7 +17,7 @@
 Hey! :) - 
 Building software between retail shifts. 10 months of unstoppable build. 4 rebuilds. Still shipping.
 
-<img width="372" height="87" alt="image" src="https://github.com/user-attachments/assets/450a9ca0-9474-4b02-97f0-4d11e7a13e7c" />
+<img width="470" height="111" alt="image" src="https://github.com/user-attachments/assets/0c28acb0-882f-4f65-a014-d64654a409c3" />
 
 169 place in [Top GitHub Commiters](https://committers.top/poland.html) in Poland
 
