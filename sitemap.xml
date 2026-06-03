@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Personal sitemap for Marcin Firmuga / HCK_Labs
+  Place in: HuckleR2003/HuckleR2003 repo root (served as GitHub Pages)
+  Submit to Google Search Console under: https://huckler2003.github.io/
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Portfolio / profile root -->
+  <url>
+    <loc>https://huckler2003.github.io/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- PC Workman project page (PL default) -->
+  <url>
+    <loc>https://huckler2003.github.io/PC_Workman_HCK/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- PC Workman project page (EN) -->
+  <url>
+    <loc>https://huckler2003.github.io/PC_Workman_HCK/index_en.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- PC Workman security report -->
+  <url>
+    <loc>https://huckler2003.github.io/PC_Workman_HCK/SECURITY_report.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- GitHub profile -->
+  <url>
+    <loc>https://github.com/HuckleR2003</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PC Workman GitHub repo -->
+  <url>
+    <loc>https://github.com/HuckleR2003/PC_Workman_HCK</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PC Workman Releases (downloadable .exe) -->
+  <url>
+    <loc>https://github.com/HuckleR2003/PC_Workman_HCK/releases</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- CHANGELOG — indexed by AI crawlers -->
+  <url>
+    <loc>https://github.com/HuckleR2003/PC_Workman_HCK/blob/main/CHANGELOG.md</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Discussions — community, indexed by search engines -->
+  <url>
+    <loc>https://github.com/HuckleR2003/PC_Workman_HCK/discussions</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- GitHub Issues — feature requests, bug reports -->
+  <url>
+    <loc>https://github.com/HuckleR2003/PC_Workman_HCK/issues</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.60</priority>
+  </url>
+
+  <!-- Blog / story pages -->
+  <url>
+    <loc>https://huckler2003.github.io/PC_Workman_HCK/blog/story_en.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://huckler2003.github.io/PC_Workman_HCK/blog/story.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+
+</urlset>
