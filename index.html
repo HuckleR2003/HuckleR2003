@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Marcin Firmuga — indie developer, HCK_Labs founder. Built PC Workman (v1.7.7, 82 AI intents, Ghost Driver Detection) in 18 months. Order picker by day, programmer by night.">
+    <meta name="description" content="Marcin Firmuga — indie developer, HCK_Labs founder. Built PC Workman (v1.7.8, 82 AI intents, adaptive thermal learning, voltage SPC) in 18 months. Order picker by day, programmer by night.">
     <meta name="keywords" content="Marcin Firmuga, HCK_Labs, PC Workman, Python developer, local AI, open source, Windows internals, indie developer, Warsaw, Poland">
     <meta property="og:title" content="Marcin Firmuga — HCK_Labs">
     <meta property="og:description" content="Built a local AI system monitor from scratch on a 2014 laptop that hit 94°C. 18 months. No investors. No shortcuts.">
@@ -65,9 +65,9 @@
           "@type": "SoftwareApplication",
           "@id": "https://huckler2003.github.io/#software",
           "name": "PC Workman",
-          "softwareVersion": "1.7.7",
-          "dateModified": "2026-06-02",
-          "description": "Free open-source Windows system monitor with local AI (hck_GPT, 82 intents), Ghost Driver Detection via pnputil, TURBO optimization suite, DeepMonitor sensor table, 2.5D PC component map, 373-entry process library. 100% offline.",
+          "softwareVersion": "1.7.8",
+          "dateModified": "2026-06-05",
+          "description": "Free open-source Windows system monitor with local AI (hck_GPT, 82 intents), adaptive thermal baseline learning per workload context, voltage SPC using Median+MAD + Nelson rules, Ghost Driver Detection via pnputil, TURBO optimization suite, DeepMonitor, 2.5D PC component map, interactive pan/zoom charts. 100% offline.",
           "url": "https://huckler2003.github.io/PC_Workman_HCK/",
           "applicationCategory": "UtilityApplication",
           "operatingSystem": "Windows 10, Windows 11",
@@ -123,7 +123,7 @@
                 18 months. No investors. No shortcuts.
             </p>
             <div class="hero-cta">
-                <a href="#project" class="btn-primary">PC Workman v1.7.7 ↓</a>
+                <a href="#project" class="btn-primary">PC Workman v1.7.8 ↓</a>
                 <a href="https://github.com/HuckleR2003/PC_Workman_HCK" target="_blank" rel="noopener" class="btn-secondary">GitHub repo</a>
                 <a href="https://www.linkedin.com/in/marcinfirmuga/" target="_blank" rel="noopener" class="btn-secondary">LinkedIn</a>
             </div>
@@ -178,6 +178,10 @@
                             <span class="tl-date">Jun 2026</span>
                             <div class="tl-text"><strong>v1.7.7</strong> — Ghost Driver Detection. pnputil /connected. 18 months in.</div>
                         </div>
+                        <div class="tl-item">
+                            <span class="tl-date">Jun 2026</span>
+                            <div class="tl-text"><strong>v1.7.8</strong> — Thermal baseline per workload. Voltage SPC: Median+MAD, Nelson rules. Charts: pan/zoom/pin.</div>
+                        </div>
                     </div>
                 </div>
 
@@ -216,7 +220,7 @@
             <p class="section-label">// main project</p>
             <div class="project-header reveal">
                 <h2 class="project-title">PC Workman</h2>
-                <span class="version-badge">v1.7.7 · active dev</span>
+                <span class="version-badge">v1.7.8 · active dev</span>
             </div>
 
             <p class="reveal" style="font-size:14px;color:rgba(226,226,226,.58);line-height:1.7;max-width:600px;margin-bottom:32px;">
@@ -227,7 +231,12 @@
 
             <div class="features-grid reveal">
                 <div class="feat">
-                    <div class="feat-tag new">New · v1.7.7</div>
+                    <div class="feat-tag new">New · v1.7.8</div>
+                    <div class="feat-name">Thermal Learning + Voltage SPC</div>
+                    <div class="feat-desc">Learns CPU temperature per workload bucket (idle/gaming/heavy etc.) via Welford's algorithm. Voltage SPC: Median+MAD, Nelson rules 1/2/3/5. No static thresholds — your hardware's actual normal.</div>
+                </div>
+                <div class="feat">
+                    <div class="feat-tag">v1.7.7</div>
                     <div class="feat-name">Ghost Driver Detection</div>
                     <div class="feat-desc">pnputil /connected vs registry comparison — finds leftover GPU/audio/USB drivers from replaced hardware. Bordeaux badge, popup, pnputil /remove-device with confirmation.</div>
                 </div>
@@ -259,11 +268,16 @@
             </div>
 
             <div class="tree-block reveal">
-                <pre><span class="c-muted">PC_Workman v1.7.7/</span>
+                <pre><span class="c-muted">PC_Workman v1.7.8/</span>
+├── <span class="c-text">core/</span>
+│   ├── <span class="c-green">thermal_baseline.py</span>     <span class="c-muted"># Welford's alg · 5 workload buckets · JSON persist</span>
+│   └── <span class="c-green">voltage_analyzer.py</span>     <span class="c-muted"># Median+MAD · Nelson rules 1/2/3/5 · anomaly decay</span>
+├── <span class="c-text">ui/components/</span>
+│   └── <span class="c-green">interactive_chart.py</span>    <span class="c-muted"># pan / zoom / click-pin / minimap / baseline band</span>
 ├── <span class="c-text">hck_gpt/</span>
 │   ├── <span class="c-green">hybrid_engine.py</span>        <span class="c-muted"># confidence ≥ 0.65 → rule engine; else → Ollama LLM</span>
 │   ├── <span class="c-green">responses/builder.py</span>    <span class="c-muted"># 5600+ lines, 70+ _resp_* handlers</span>
-│   └── <span class="c-green">memory/proactive_monitor.py</span>  <span class="c-muted"># CHECK_INTERVAL_S=45, HOT strip via register_hot()</span>
+│   └── <span class="c-green">memory/proactive_monitor.py</span>  <span class="c-muted"># _check_voltage_rails() · voltage_spike / voltage_trend alerts</span>
 ├── <span class="c-text">hck_stats_engine/</span>
 │   └── <span class="c-green">db_manager.py</span>           <span class="c-muted"># WAL-mode SQLite, thread-local connections</span>
 └── <span class="c-text">ui/pages/first_setup_drivers.py</span>
