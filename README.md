@@ -1,4 +1,4 @@
-# Marcin Firmuga (IT Specialist edu.) | Developer
+# Marcin Firmuga | 22yrs | (IT Specialist edu.) | Full Stack Developer
 <div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
   <a href="https://linkedin.com/in/marcinfirmuga">
     <img src="https://raw.githubusercontent.com/HuckleR2003/PC_Workman_HCK/main/docs/assets/badge-linkedin.svg" height="48" alt="LinkedIn">
@@ -14,12 +14,13 @@
   </a>
 </div>
 
-Hey! :) - 
+Hey! :) [![committers.top badge](https://user-badge.committers.top/poland/HuckleR2003.svg)](https://user-badge.committers.top/poland/HuckleR2003)
+
 Building software between retail shifts. 10 months of unstoppable build. 4 rebuilds. Still shipping.
 
-<img width="470" height="111" alt="image" src="https://github.com/user-attachments/assets/0c28acb0-882f-4f65-a014-d64654a409c3" />
+<img width="470" height="111" alt="130th place in ranking: Top GitHub Commiters Poland" src="https://github.com/user-attachments/assets/0c28acb0-882f-4f65-a014-d64654a409c3" />
 
-151 place in [Top GitHub Commiters](https://committers.top/poland.html) in Poland
+130 place in [Top GitHub Commiters](https://committers.top/poland.html) in Poland
 
 ## Currently Working On
 
