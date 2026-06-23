@@ -14,18 +14,18 @@
   </a>
 </div>
 
-Hey! :) [![committers.top badge](https://user-badge.committers.top/poland/HuckleR2003.svg)](https://user-badge.committers.top/poland/HuckleR2003)
+[![Support on GitHub Sponsors](https://img.shields.io/badge/Support-PC_Workman-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/HuckleR2003)[![committers.top badge](https://user-badge.committers.top/poland/HuckleR2003.svg)](https://user-badge.committers.top/poland/HuckleR2003) 
 
-Building software between retail shifts. 10 months of unstoppable build. 4 rebuilds. Still shipping.
+**Welcome! :)** Building software between retail shifts. 12 months of unstoppable build. 4 rebuilds. Still shipping.
 
-<img width="470" height="111" alt="130th place in ranking: Top GitHub Commiters Poland" src="https://github.com/user-attachments/assets/0c28acb0-882f-4f65-a014-d64654a409c3" />
+<img width="518" height="111" alt="image" src="https://github.com/user-attachments/assets/d52df3e9-1662-4152-80dc-72dbd7c1a414" />
 
-130 place in [Top GitHub Commiters](https://committers.top/poland.html) in Poland
+99 place in [Top GitHub Commiters](https://committers.top/poland.html) in Poland
 
 ## Currently Working On
 
 **[PC_Workman](https://github.com/HuckleR2003/PC_Workman_HCK)**, System monitor that explains why your PC is slow, not just that it's slow.
-270+ commits. 55 GitHub stars. ~260 downloads. second .exe available.
+700+ commits. 62 GitHub stars. ~790 downloads. another .exe available. 
 
 <img width="612" height="307" alt="quick intro" src="https://github.com/user-attachments/assets/2c67253d-b3ae-44ff-b217-a89c68657966" />
 
@@ -60,7 +60,8 @@ Currently building full-time. Google AI certification in progress.
 
 <img width="736" height="286" alt="image" src="https://github.com/user-attachments/assets/db613452-3476-4ec1-9492-3d4b7d47962d" />
 
-Check [ROADMAP to 1.7.8](https://github.com/users/HuckleR2003/projects/3/views/2) of PC Workman!
+~~Check [ROADMAP to 1.7.8](https://github.com/users/HuckleR2003/projects/3/views/2) of PC Workman!~~
+Here is next... [ROADMAP to 2.0.0 - Microsoft Store Target](https://github.com/users/HuckleR2003/projects/4/views/4) here.
 
 ---
 
@@ -70,25 +71,31 @@ Check [ROADMAP to 1.7.8](https://github.com/users/HuckleR2003/projects/3/views/2
 
 ---
 ## Find Me
-[LinkedIn](https://linkedin.com/in/marcinfirmuga) - 2,500 followers, weekly series
-[Medium](https://medium.com/@MarcinFirmuga) - 210+ followers, tutorials & build logs
-[X/Twitter](https://x.com/hck_lab) - 140+ followers, daily updates
-[Dev.to](https://dev.to/huckler) - technical articles
-[Everything](https://linktr.ee/marcin_firmuga) COFFEE :)
+[LinkedIn](https://linkedin.com/in/marcinfirmuga) - 3000 followers, weekly series
+
+[Medium](https://medium.com/@MarcinFirmuga) - 390+ followers, tutorials & build logs
+
+[X/Twitter](https://x.com/hck_lab) - 180+ followers, daily updates
+
+[Dev.to](https://dev.to/huckler) - 4000 followers technical articles
+
+[Everything](https://linktr.ee/marcin_firmuga) and COFFEE :)
+
+---
 
 ### Weekly Content Series
 I publish 3x/week, every week:
 - **Monday Grind Blueprint** - the plan for the week
 - **Wednesday Code Autopsy** - real code, explained
 - **Friday Shipped & Scarred** - what actually shipped vs what didn't
-Best post: 30,000 views on LinkedIn (May 2026).
+Best post: 48,000 views on LinkedIn (May 2026).
 ---
 ## Numbers
-- **10 months of work** on PC_Workman
-- **260+ commits** on main branch
-- **55 GitHub stars**, ~260 downloads
-- **2,500 LinkedIn** / 210+ Medium / 140+ X followers
-- **20+ articles** across Medium, Dev.to, HackerNoon
+- **12 months of work** on PC_Workman
+- **~700+ commits** on main branch
+- **62 GitHub stars**, 790 downloads
+- **3000 LinkedIn** / **4000 DevTo** / ~400+ Medium / 180+ X followers
+- **27+ articles** across Medium, Dev.to, HackerNoon
 - **Security:** Sigstore signed, VirusTotal 0/70, CodeQL on every commit
 - **2 dogs** - Kacia 11yr, Lusia 2yr (best teammates for breaks)
 ---
