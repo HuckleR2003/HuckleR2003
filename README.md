@@ -1,4 +1,6 @@
-# Marcin Firmuga | 22yrs | (IT Specialist edu.) | Full Stack Developer
+# Marcin "HCK" Firmuga
+**22 · Poland 🇵🇱 · solo dev · founder of [HCK_Labs](https://github.com/HuckleR2003) - I ship real products in public.**
+
 <div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
   <a href="https://linkedin.com/in/marcinfirmuga">
     <img src="https://raw.githubusercontent.com/HuckleR2003/PC_Workman_HCK/main/docs/assets/badge-linkedin.svg" height="48" alt="LinkedIn">
@@ -14,93 +16,91 @@
   </a>
 </div>
 
-[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGW6WS2N50V) [![Support on GitHub Sponsors](https://img.shields.io/badge/Support-PC_Workman-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://buycoffee.to/hcklabs)
+[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGW6WS2N50V) [![Support PC Workman](https://img.shields.io/badge/Support-PC_Workman-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://buycoffee.to/hcklabs)
 
-[![committers.top badge](https://user-badge.committers.top/poland/HuckleR2003.svg)](https://user-badge.committers.top/poland/HuckleR2003) 
+[![committers.top badge](https://user-badge.committers.top/poland/HuckleR2003.svg)](https://user-badge.committers.top/poland/HuckleR2003)
 
-**Welcome! :)** Building software between retail shifts. 12 months of unstoppable build. 4 rebuilds. Still shipping.
+> **A year ago I was scanning barcodes in a Netherlands warehouse. This week my app went live on the Microsoft Store.**
+> Built solo, at night, on a 2014 laptop that hits 94°C. Four rebuilds. Still shipping.
 
 <img width="518" height="111" alt="image" src="https://github.com/user-attachments/assets/d52df3e9-1662-4152-80dc-72dbd7c1a414" />
 
-99 place in [Top GitHub Commiters](https://committers.top/poland.html) in Poland
+🇵🇱 **#83 in [Top GitHub Committers](https://committers.top/poland.html) in Poland.**
 
-## Currently Working On
+## Currently building
 
-**[PC_Workman](https://github.com/HuckleR2003/PC_Workman_HCK)**, System monitor that explains why your PC is slow, not just that it's slow.
-700+ commits. 62 GitHub stars. ~790 downloads. another .exe available. 
+**[PC Workman](https://github.com/HuckleR2003/PC_Workman_HCK)** - a Windows system monitor that tells you *why* your PC is slow, not just that it is.
+**Now on the [Microsoft Store](https://apps.microsoft.com/detail/9PGW6WS2N50V).**  
+700+ commits · 63 stars · ~1000 downloads.
 
 <img width="612" height="307" alt="quick intro" src="https://github.com/user-attachments/assets/2c67253d-b3ae-44ff-b217-a89c68657966" />
 
-hck_GPT - Fully Offline AI Assistant
-PC_Workman has a built-in AI that works without internet, without API keys, without sending your data anywhere.
-Every message goes through a 9-layer routing engine
+**hck_GPT - a fully offline AI assistant.**
+No internet, no API key, nothing leaves your machine. 84 intents through a 9-layer routing engine, judged against your PC's own learned baselines so 82°C reads *normal* while gaming but *critical* at idle.
 
 <img width="612" height="307" alt="pro chat hckgpt" src="https://github.com/user-attachments/assets/d80b1de8-f784-4a55-ac3e-5c7dadd4d059" />
 
-Local and Offline, for your safety!
+*Local and offline - for your safety.*
 
-**[GuideAI](https://github.com/HuckleR2003/guide-ai)**, Turn 100-page manuals into QR-code AI assistants.  
-Because paper manuals suck.
+**[GuideAI](https://github.com/HuckleR2003/guide-ai)** - turn 100-page PDF manuals into QR-code AI assistants. Because paper manuals suck.
+React and Supabase · Google OAuth · real device & QR persistence.
 
-<img width="228" height="188" alt="GUIDE AI - Landing page options" src="https://github.com/user-attachments/assets/09438b2c-8c9d-41c9-a67d-9951e6be703f" /> <img width="508" height="301" alt="GUIDE AI - Chatbot with any Device" src="https://github.com/user-attachments/assets/5cdfa260-acff-4e73-a0de-197463597b61" />
-
-
+<img width="228" height="188" alt="GuideAI landing" src="https://github.com/user-attachments/assets/09438b2c-8c9d-41c9-a67d-9951e6be703f" /> <img width="508" height="301" alt="GuideAI chatbot" src="https://github.com/user-attachments/assets/5cdfa260-acff-4e73-a0de-197463597b61" />
 
 ---
 
-## My Story
+## My story
 
-Nine months in a Netherlands warehouse. 15km daily. Scanning barcodes.
-Coding every night on a laptop hitting 94°C.
- 
-Lost job December 22, three days before Christmas.
-Started rebuild #4 that night. Shipped first .exe three weeks later.
+Nine months in a Netherlands warehouse. 15 km a day, scanning barcodes. Coding every night on a laptop hitting 94°C.
 
-/\ - Thats how my First PC Workman Project started - /\
+Lost the job on December 22nd, three days before Christmas. Started rebuild #4 that night. Shipped the first .exe three weeks later.
 
-Currently building full-time. Google AI certification in progress.
+That's how PC Workman really started.
+
+A year on: 12 dead projects behind it, a Google AI certification finished, and the last line of a roadmap I never believed I'd reach - **live on the Microsoft Store.**
+
+Physical work by day. Code by night. The same rhythm that built every line of this.
 
 <img width="736" height="286" alt="image" src="https://github.com/user-attachments/assets/db613452-3476-4ec1-9492-3d4b7d47962d" />
 
-~~Check [ROADMAP to 1.7.8](https://github.com/users/HuckleR2003/projects/3/views/2) of PC Workman!~~
-Here is next... [ROADMAP to 2.0.0 - Microsoft Store Target](https://github.com/users/HuckleR2003/projects/4/views/4) here.
+✅ **Roadmap to the Microsoft Store — reached.** → [next chapter loading](https://github.com/users/HuckleR2003/projects/4/views/4).
 
 ---
 
 ## Stack
-**PC_Workman:** Python, tkinter, WMI, SQLite, Sigstore, PyInstaller
-**GuideAI:** React, Supabase, Claude API, Vercel, Google OAuth
+**PC Workman:** Python | tkinter | WMI | SQLite | Sigstore | PyInstaller | MSIX
 
----
-## Find Me
-[LinkedIn](https://linkedin.com/in/marcinfirmuga) - 3000 followers, weekly series
-
-[Medium](https://medium.com/@MarcinFirmuga) - 390+ followers, tutorials & build logs
-
-[X/Twitter](https://x.com/hck_lab) - 180+ followers, daily updates
-
-[Dev.to](https://dev.to/huckler) - 4000 followers technical articles
-
-[Everything](https://linktr.ee/marcin_firmuga) and COFFEE :)
+**GuideAI:** React | Supabase | Claude API | Vercel | Google OAuth
 
 ---
 
-### Weekly Content Series
-I publish 3x/week, every week:
+## Find me
+- **[LinkedIn](https://linkedin.com/in/marcinfirmuga)** - 3,000 followers · 3x/week series
+- **[Dev.to](https://dev.to/huckler)** - 4,000 followers · technical articles
+- **[Medium](https://medium.com/@MarcinFirmuga)** - 390+ followers · tutorials & build logs
+- **[HackerNoon](https://hackernoon.com/u/huckler)** - featured (newsletter and podcast)
+- **[X / Twitter](https://x.com/hck_lab)** - daily updates
+- **[Everything + coffee ☕](https://linktr.ee/marcin_firmuga)**
+
+---
+
+## Weekly series - 3x/week, never missed
 - **Monday Grind Blueprint** - the plan for the week
 - **Wednesday Code Autopsy** - real code, explained
 - **Friday Shipped & Scarred** - what actually shipped vs what didn't
-Best post: 48,000 views on LinkedIn (May 2026).
----
-## Numbers
-- **12 months of work** on PC_Workman
-- **~700+ commits** on main branch
-- **62 GitHub stars**, 790 downloads
-- **3000 LinkedIn** / **4000 DevTo** / ~400+ Medium / 180+ X followers
-- **27+ articles** across Medium, Dev.to, HackerNoon
-- **Security:** Sigstore signed, VirusTotal 0/70, CodeQL on every commit
-- **2 dogs** - Kacia 11yr, Lusia 2yr (best teammates for breaks)
+
+Best post: **48,000 views** on LinkedIn.
+
 ---
 
-**Warehouse to Developer | Building in public | HCK_Labs**
-```
+## Numbers
+- **A year** building PC Workman - now on the **Microsoft Store**
+- **700+ commits** · **63 stars** · **~1000 downloads**
+- **3,000 LinkedIn** · **4,000 Dev.to** · **390+ Medium** · **180+ X**
+- **28 articles** across Medium, Dev.to & HackerNoon (featured 3× on HackerNoon)
+- **Security:** Sigstore-signed · VirusTotal 0/70 · CodeQL on every commit
+- **2 dogs** - Kacia (11) & Lusia (2), best teammates for breaks 🐕
+
+---
+
+**Warehouse to Microsoft Store | Building in public | HCK_Labs**
