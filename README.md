@@ -14,7 +14,9 @@
   </a>
 </div>
 
-[![Support on GitHub Sponsors](https://img.shields.io/badge/Support-PC_Workman-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/HuckleR2003)[![committers.top badge](https://user-badge.committers.top/poland/HuckleR2003.svg)](https://user-badge.committers.top/poland/HuckleR2003) 
+[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGW6WS2N50V) [![Support on GitHub Sponsors](https://img.shields.io/badge/Support-PC_Workman-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://buycoffee.to/hcklabs)
+
+[![committers.top badge](https://user-badge.committers.top/poland/HuckleR2003.svg)](https://user-badge.committers.top/poland/HuckleR2003) 
 
 **Welcome! :)** Building software between retail shifts. 12 months of unstoppable build. 4 rebuilds. Still shipping.
 
