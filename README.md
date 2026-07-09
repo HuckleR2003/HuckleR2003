@@ -23,7 +23,8 @@
 > **A year ago I was scanning barcodes in a Netherlands warehouse. This week my app went live on the Microsoft Store.**
 > Built solo, at night, on a 2014 laptop that hits 94°C. Four rebuilds. Still shipping.
 
-<img width="518" height="111" alt="image" src="https://github.com/user-attachments/assets/d52df3e9-1662-4152-80dc-72dbd7c1a414" />
+<img width="468" height="111" alt="image" src="https://github.com/user-attachments/assets/85e56eb4-7414-476f-913c-1f7199e24552" />
+
 
 🇵🇱 **#74 in [Top GitHub Committers](https://committers.top/poland.html) in Poland.**
 
