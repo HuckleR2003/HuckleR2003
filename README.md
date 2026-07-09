@@ -1,5 +1,5 @@
 # Marcin "HCK" Firmuga
-**22 · Poland 🇵🇱 · solo dev · founder of [HCK_Labs](https://github.com/HuckleR2003) - I ship real products in public.**
+**22 - Poland 🇵🇱 - solo dev - founder of [HCK_Labs](https://github.com/HuckleR2003) - I ship real products in public.**
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
   <a href="https://linkedin.com/in/marcinfirmuga">
@@ -25,18 +25,18 @@
 
 <img width="518" height="111" alt="image" src="https://github.com/user-attachments/assets/d52df3e9-1662-4152-80dc-72dbd7c1a414" />
 
-🇵🇱 **#83 in [Top GitHub Committers](https://committers.top/poland.html) in Poland.**
+🇵🇱 **#74 in [Top GitHub Committers](https://committers.top/poland.html) in Poland.**
 
 ## Currently building
 
 **[PC Workman](https://github.com/HuckleR2003/PC_Workman_HCK)** - a Windows system monitor that tells you *why* your PC is slow, not just that it is.
 **Now on the [Microsoft Store](https://apps.microsoft.com/detail/9PGW6WS2N50V).**  
-700+ commits · 63 stars · ~1000 downloads.
+820+ commits · 64 stars · ~1400 downloads.
 
 <img width="612" height="307" alt="quick intro" src="https://github.com/user-attachments/assets/2c67253d-b3ae-44ff-b217-a89c68657966" />
 
 **hck_GPT - a fully offline AI assistant.**
-No internet, no API key, nothing leaves your machine. 84 intents through a 9-layer routing engine, judged against your PC's own learned baselines so 82°C reads *normal* while gaming but *critical* at idle.
+No internet, no API key, nothing leaves your machine.  intents through a 9-layer routing engine, judged against your PC's own learned baselines so 82°C reads *normal* while gaming but *critical* at idle.
 
 <img width="612" height="307" alt="pro chat hckgpt" src="https://github.com/user-attachments/assets/d80b1de8-f784-4a55-ac3e-5c7dadd4d059" />
 
@@ -95,7 +95,7 @@ Best post: **48,000 views** on LinkedIn.
 
 ## Numbers
 - **A year** building PC Workman - now on the **Microsoft Store**
-- **700+ commits** · **63 stars** · **~1000 downloads**
+- **820+ commits** · **64 stars** · **~1400 downloads**
 - **3,000 LinkedIn** · **4,000 Dev.to** · **390+ Medium** · **180+ X**
 - **28 articles** across Medium, Dev.to & HackerNoon (featured 3× on HackerNoon)
 - **Security:** Sigstore-signed · VirusTotal 0/70 · CodeQL on every commit
