@@ -79,7 +79,7 @@ Physical work by day. Code by night. The same rhythm that built every line of th
 
 <img width="736" height="286" alt="image" src="https://github.com/user-attachments/assets/db613452-3476-4ec1-9492-3d4b7d47962d" />
 
-✅ **Roadmap to the Microsoft Store - reached.** → [next chapter loading](https://github.com/users/HuckleR2003/projects/4/views/4).
+✅ **Roadmap to the Microsoft Store - reached.** -> [next chapter loading](https://github.com/users/HuckleR2003/projects/4/views/4).
 
 ---
 
