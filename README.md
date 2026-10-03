@@ -7,7 +7,7 @@
 
 <img width="517" height="47" alt="Juminos from Stardew Valley" src="https://github.com/user-attachments/assets/3166bc90-cd62-47fa-afd0-cf67cca1ff5e" />
 
-[![Play Scaling Laws free](https://img.shields.io/badge/Play-Scaling_Laws_free-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://hcklab.itch.io/scaling-laws) [![pcworkman.dev](https://img.shields.io/badge/pcworkman.dev-site_·_blog_·_guides-0A2444?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pcworkman.dev/) [![Steam supporter pack](https://img.shields.io/badge/Steam-supporter_pack-1B2838?style=for-the-badge&logo=steam&logoColor=white)](https://buycoffee.to/hcklabs)
+[![Play Scaling Laws free](https://img.shields.io/badge/Play-Scaling_Laws_free-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://hcklab.itch.io/scaling-laws) [![pcworkman.dev](https://img.shields.io/badge/pcworkman.dev-site_·_blog_·_guides-0A2444?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pcworkman.dev/)
 
 > **A year and a half ago I was scanning barcodes in a warehouse in the Netherlands.**
 > **Since then: an app on the Microsoft Store, and a game built in 48 days of nights after taxi shifts.**
