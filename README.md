@@ -19,6 +19,24 @@
 ##### 🇵🇱 **#47 in [Top GitHub Committers](https://committers.top/poland.html) in Poland.**
 </div>
 
+---
+
+## Available for work
+
+**I take on Python work, and the whole way I work is already public on this profile.**
+
+| What | From | |
+|---|---|---|
+| Automated tests for a Python project | $45 | pytest, a regression test per bug found, and a written report |
+| Documentation written from your code | $35 | README, CHANGELOG, setup and API docs, English or Polish |
+| A Windows desktop app in Python | $180 | packaged .exe, source, and docs your next developer can use |
+
+[![Hire me](https://img.shields.io/badge/Hire_me-pcworkman.dev%2Fhire-e0846c?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pcworkman.dev/hire/) [![Fiverr](https://img.shields.io/badge/Fiverr-see_my_services-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/huckler_creator)
+
+**Also open to my first permanent job in software:** Python, IT support, junior developer.
+
+---
+
 ## Currently building
 
 ### 1. PC Workman
