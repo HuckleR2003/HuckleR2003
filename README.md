@@ -79,8 +79,7 @@ A city, rented offices with your name on the door and a server room with a clima
 
 [**Play free on itch.io**](https://hcklab.itch.io/scaling-laws) · [Game page](https://pcworkman.dev/hck-labs/scaling-laws/) · [How it works](https://pcworkman.dev/hck-labs/scaling-laws/development/) · [The first 48 days](https://pcworkman.dev/blog/forty-eight-days/) · [IndieDB](https://www.indiedb.com/games/scaling-laws) · [Game Jolt](https://gamejolt.com/games/scaling-laws) · [Source](https://github.com/HuckleR2003/ScalingLaws-AI)
 
-> **Help put it on Steam.** The Steam Direct fee is $100. For $10 you get a Steam key on launch day and your
-> name in the credits; for $25, your name also becomes a candidate you can hire in the game.
+> **The Steam fee is covered.** One person paid the whole $100 on 30 September 2026, eleven days after the fund opened and a week after I had written it off. Their name goes in the credits and they get a key on launch day.
 > [Supporter pack on buycoffee.to](https://buycoffee.to/hcklabs) · [GitHub Sponsors](https://github.com/sponsors/HuckleR2003)
 
 ---
